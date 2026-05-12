@@ -38,3 +38,25 @@ Designed and implemented an enterprise LAN environment using Cisco Packet Tracer
 
 ## Outcome
 Successfully created a secure enterprise network simulation with multiple protocols, service validation, and security hardening.
+
+## Network Topology
+
+<img width="952" height="742" alt="21 final-topology" src="https://github.com/user-attachments/assets/e1a8f5f1-0619-4e29-839c-ea0ec3fb5657" />
+
+
+## Protocol Verification
+
+### DHCP
+
+
+### SSH
+
+![SSH](screenshots/security/ssh.png)
+
+### VLAN
+
+![VLAN](screenshots/security/vlan.png)
+
+### Ping Test
+
+![Ping](screenshots/testing/ping.png)
