@@ -47,12 +47,13 @@ Successfully created a secure enterprise network simulation with multiple protoc
 ## Protocol Verification
 
 ### DHCP
-<img width="1802" height="845" alt="6 dhcp-verify" src="https://github.com/user-attachments/assets/b2cb35fd-e851-4ada-a4af-b6b3ac26c68c" />
 
+<img width="1802" height="845" alt="6 dhcp-verify" src="https://github.com/user-attachments/assets/28485099-403c-4af0-8830-27053da33bf4" />
 
 ### SSH
 
-<img width="1736" height="837" alt="15 ssh-config" src="https://github.com/user-attachments/assets/ecbe1de0-e56d-49d6-a12e-e34db2b25dad" />
+<img width="1707" height="620" alt="17 ssh-test" src="https://github.com/user-attachments/assets/18d2e0c9-8d2a-403d-9ada-23493c7772f7" />
+
 
 ### VLAN
 
