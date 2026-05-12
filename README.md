@@ -47,16 +47,17 @@ Successfully created a secure enterprise network simulation with multiple protoc
 ## Protocol Verification
 
 ### DHCP
+<img width="1802" height="845" alt="6 dhcp-verify" src="https://github.com/user-attachments/assets/b2cb35fd-e851-4ada-a4af-b6b3ac26c68c" />
 
 
 ### SSH
 
-![SSH](screenshots/security/ssh.png)
+<img width="1736" height="837" alt="15 ssh-config" src="https://github.com/user-attachments/assets/ecbe1de0-e56d-49d6-a12e-e34db2b25dad" />
 
 ### VLAN
 
-![VLAN](screenshots/security/vlan.png)
+<img width="1708" height="900" alt="18 vlan-verification" src="https://github.com/user-attachments/assets/0d109ecc-862a-4898-92e7-dfae58451193" />
 
 ### Ping Test
 
-![Ping](screenshots/testing/ping.png)
+<img width="1523" height="917" alt="3 ping-success" src="https://github.com/user-attachments/assets/131259ad-f5b2-42c4-8b04-aa7ccd5463d1" />
